@@ -1,9 +1,9 @@
 # NAME: Local Network
 
-IP-CIDR,192.168.5.0/24
-DOMAIN-SUFFIX,op.com
-DOMAIN-SUFFIX,nas.com
-DOMAIN-SUFFIX,qb.com
-DOMAIN-SUFFIX,tmm.com
-DOMAIN-SUFFIX,bw.t0z.cc
-USER-AGENT,local
+IP-CIDR 192.168.5.0/24
+DOMAIN op.com
+DOMAIN nas.com
+DOMAIN qb.com
+DOMAIN tmm.com
+DOMAIN bw.t0z.cc
+USER-AGENT local
