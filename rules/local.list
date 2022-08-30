@@ -1,0 +1,11 @@
+# NAME: Local Network
+
+IP-CIDR 10.10.10.0/24
+DOMAIN op.com
+DOMAIN nas.com
+DOMAIN qb.com
+DOMAIN tmm.com
+DOMAIN bw.t0z.cc
+DOMAIN ik.com
+DOMAIN ex.com
+USER-AGENT local
