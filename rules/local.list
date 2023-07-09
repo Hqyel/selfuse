@@ -1,12 +1,12 @@
 # > Local Network
 
 IP-CIDR,10.10.10.0/24
-DOMAIN,op.com
-DOMAIN,nas.com
-DOMAIN,qb.com
-DOMAIN,tmm.com
-DOMAIN,bw.t0z.cc
-DOMAIN,ik.com
-DOMAIN,ex.com
+DOMAIN,ik.xj.rs
+DOMAIN,op.xj.rs
+DOMAIN,nas.xj.rs
+DOMAIN,qb.xj.rs
+DOMAIN,bw.xj.rs
+DOMAIN,ex.xj.rs
+DOMAIN,dsm.xj.rs
 DOMAIN,blog.stomtian.com
-DOMAIN,t0z.cc
+DOMAIN,xj.cc
