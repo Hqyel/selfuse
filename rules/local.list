@@ -1,6 +1,7 @@
 # > Local Network
 
 IP-CIDR,10.10.10.0/24
+IP-CIDR 172.17.0.4/24
 DOMAIN,alist.xj.rs
 DOMAIN,115.xj.rs
 DOMAIN,mt.xj.rs
