@@ -1,6 +1,7 @@
 # NAME: Local Network
 
 IP-CIDR 10.10.10.0/24
+IP-CIDR 172.17.0.4/24
 DOMAIN op.com
 DOMAIN nas.com
 DOMAIN qb.com
